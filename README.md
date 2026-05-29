@@ -7,7 +7,7 @@
 <p align="center">
   <b>A curated collection of academic papers, industry reports, datasets, and tools for the OpenClaw AI agent ecosystem.</b>
   <br/>
-  <i>Companion repository for our survey: <a href="#">A Survey of the OpenClaw Ecosystem — From Platform Extensibility to Constraint Design</a>.</i>
+  <i>Companion repository for our survey: <a href="OpenClaw_Survey.pdf">A Survey of the OpenClaw Ecosystem — From Platform Extensibility to Constraint Design</a>.</i>
 </p>
 
 <p align="center">
@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/Industry%20Reports-18+-orange?style=for-the-badge" alt="Reports"/>
   <img src="https://img.shields.io/badge/Last%20Updated-May%202026-red?style=for-the-badge" alt="Updated"/>
 </p>
+
+<p align="center">
+  <a href="OpenClaw_Survey.pdf"><img src="https://img.shields.io/badge/📄_Read_the_Paper-PDF-D62828?style=for-the-badge&logoColor=white" alt="Read the Paper (PDF)"/></a>
+</p>
+
+> ### 📄 Read the Survey
+> **A Survey of the OpenClaw Ecosystem — From Platform Extensibility to Constraint Design** is available as a PDF in this repository: **[`OpenClaw_Survey.pdf`](OpenClaw_Survey.pdf)**.
 
 OpenClaw — the open-source, self-hosted AI agent platform created by Peter Steinberger (Clawdbot → Moltbot → OpenClaw, January 29, 2026) — has generated **74 academic papers**, **23 benchmarks**, and **18+ major industry reports** in under four months. This repository organizes the research landscape using the **PSEA (Platform–Security–Societies–Deployment)** taxonomy introduced in our survey.
 
