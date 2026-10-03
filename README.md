@@ -24,7 +24,7 @@
 > ### 📄 Read the Survey
 > **A Survey of the OpenClaw Ecosystem — From Platform Extensibility to Constraint Design** is available as a PDF in this repository: **[`OpenClaw_Survey.pdf`](OpenClaw_Survey.pdf)**.
 
-OpenClaw — the open-source, self-hosted AI agent platform created by Peter Steinberger (Clawdbot → Moltbot → OpenClaw, January 29, 2026) — has generated **75 academic papers**, **23 benchmarks**, and **18+ major industry reports** in under four months. This repository organizes the research landscape using the **PSEA (Platform–Security–Societies–Deployment)** taxonomy introduced in our survey.
+OpenClaw — the open-source, self-hosted AI agent platform created by Peter Steinberger (Clawdbot → Moltbot → OpenClaw, January 29, 2026) — has generated **75 academic papers**, **23 benchmarks**, and **18+ major industry reports**. This repository organizes the research landscape using the **PSEA (Platform–Security–Societies–Deployment)** taxonomy introduced in our survey.
 
 > **Thesis of the survey.** OpenClaw is best understood as a stress test for open personal-agent ecosystems. Its open Skills, persistent Memory, and always-on Heartbeat make capability easy to extend, but the same openness creates governance, security, social, and deployment problems. The literature converges on one recurring tradeoff: **extensibility accelerates capability growth, but trustworthy use requires explicit constraints on Skills, Memory, autonomy, domain actions, and evaluation.** The repository is organized to make this tradeoff visible at every level.
 
